@@ -1,0 +1,51 @@
+
+
+
+	body {
+    background: #060606ed;
+}
+	div#amarblock {  width: 350px;padding: 8px;   
+	 background: #2196f338;    margin: auto;
+	  border: 3px solid #2196f37a;    border-radius: 5px;}
+    div#formLogo {
+    text-align: center;
+    font-size: 91px;
+    color: white;
+    padding-bottom: 10px;
+}
+i.fas.fa-user-circle {
+    border: 4px solid white;
+    border-radius: 50px;
+}
+div#InputFielder {
+    color: white;
+    font-family: sans-serif;
+}
+
+	div#InputField input, select{ margin-bottom: 10px; 
+	width: 98.5%; padding-top: 8px; padding-bottom: 8px;
+	 border: 1px solid #99caf1; border-radius:3px; }
+
+
+     .SignupTitle{background: #2196f326 ; 
+      margin-bottom: 10px; width: 100%}
+
+
+
+   .SignupTitle h2{margin:0px; padding:8px;
+    color: white; font-family: arial black;
+    text-align: center;}
+
+
+
+   #submitButton input{background: #2196F3 ; 
+   	color: white; padding:8px; width: 100%; 
+   	border: 1px solid#5a7e9a; border-radius: 5px}
+    #submitButton input:hover {
+    background: #2196f3cf;
+    border: 1px solid black;
+}
+
+
+   #InputFielder span{padding:8px; margin-bottom: 10px; 
+   	display: block; }
